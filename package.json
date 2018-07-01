@@ -1,0 +1,9 @@
+{
+  "name": "tcdw",
+  "version": "1.0.0",
+  "description": "all meaning of tcdw",
+  "main": "index.json",
+  "repository": "git@github.com:tcdw/tcdw.git",
+  "author": "tcdw <tcdw2011@gmail.com>",
+  "license": "MIT"
+}
