@@ -18,6 +18,14 @@ console.log(`tcdw means ${tcdw[Math.floor(Math.random() * tcdw.length)]}`);
 3. 执行 git 相关操作
 4. Pull Request
 
+## 贡献者
+
+* [itorr](https://github.com/itorr)
+* [Yukino Song](https://github.com/ClassicOldSong)
+* MoeReimu
+* Almsev
+* [qwe7002](https://github.com/qwe7002)
+
 ## 免责声明
 
 认真你就输了
