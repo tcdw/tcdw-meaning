@@ -25,6 +25,12 @@ console.log(`tcdw means ${tcdw[Math.floor(Math.random() * tcdw.length)]}`);
 * MoeReimu
 * Almsev
 * [qwe7002](https://github.com/qwe7002)
+* [benpigchu](https://github.com/benpigchu)
+* [laosb](https://github.com/laosb)
+* 王文璐
+* 天地之灵
+* [Simon Chan](https://github.com/yume-chan)
+* [Phantr4x](https://github.com/Phantr4x)
 
 ## 免责声明
 
