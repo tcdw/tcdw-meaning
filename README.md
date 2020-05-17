@@ -31,6 +31,7 @@ console.log(`tcdw means ${tcdw[Math.floor(Math.random() * tcdw.length)]}`);
 * 天地之灵
 * [Simon Chan](https://github.com/yume-chan)
 * [Phantr4x](https://github.com/Phantr4x)
+* [Ping Timeout](https://github.com/Ping-timeout)
 
 ## 免责声明
 
